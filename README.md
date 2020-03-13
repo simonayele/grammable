@@ -4,7 +4,7 @@ A similar application like instagram where users can share photos and comments.
 
 ## Features
 
-  *Test-driven approach
+  * Test-driven approach
   * Carrierwave for uploading images and AWS for storage 
 
 ## Coding Language
