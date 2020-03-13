@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A similar application like instagram where users can share photos and comments. 
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+  *Test-driven approach
+  * Carrierwave for uploading images and AWS for storage 
 
-* System dependencies
+## Coding Language
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  Ruby in Rails
+ 
